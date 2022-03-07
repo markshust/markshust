@@ -6,14 +6,6 @@ My name is Mark, and I've been a web developer for over 20 years. I create cours
 
 My most popular repo is [docker-magento](https://github.com/markshust/docker-magento), a development environment I created for [Magento](https://github.com/magento) that is based on [Docker](https://github.com/docker). I've been working on it for over 5 years now, and it's by far my biggest accomplishment in open source.
 
-## Snippets!
-
-I'm a strong believer in side projects. It shows you are really passionate about programming, and is a great way to learn something outside of your area of expertise.
-
-I'm currently working on [Snippets](https://snippets.cc). It's an app you can use to generate beautiful snippets of code that you can then share across social media, or create curated educational content for others to purchase. It runs on [Laravel](https://github.com/laravel) and uses [Puppeter](https://github.com/puppeteer) to orchestrate browser screenshots.
-
-![Snippet of PHP 7 Anonymous Classes](https://raw.githubusercontent.com/markshust/markshust/master/docs/anonymous-classes.png)
-
 ## Fun facts
 
 - I'm married to my wonderful wife [Juliann](https://www.instagram.com/adventures_with_mommy/) 🌹 and we have twin girls 👯‍♂️
