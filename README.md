@@ -4,7 +4,7 @@ My name is Mark, and I've been a web developer for over 20 years. I create cours
 
 ## 🐳 + 🧡 + = 😍
 
-My most popular repo is [docker-magento](https://github.com/markshust/docker-magento), a development environment I created for [Magento](https://github.com/magento) that is based on [Docker](https://github.com/docker). I've been working on it for over 6 years now, and it's by far my biggest accomplishment in open source.
+My most popular repo is [docker-magento](https://github.com/markshust/docker-magento), a development environment I created for [Magento](https://github.com/magento) that is based on [Docker](https://github.com/docker). I've been working on it for over 7 years now, and it's by far my biggest accomplishment in open source.
 
 ## Fun facts
 
