@@ -16,6 +16,6 @@ My most popular repo is [docker-magento](https://github.com/markshust/docker-mag
 
 ## Social
 - Email: [mark@m.academy](mailto:mark@m.academy)
-- Twitter: [@markshust](https://twitter.com/MarkShust)
-- LinkedIn: [markshust](https://www.linkedin.com/in/MarkShust/)
-- YouTube: [MarkShust](https://www.youtube.com/c/MarkShust)
+- Twitter: [@MarkShust](https://twitter.com/MarkShust)
+- LinkedIn: [in/MarkShust](https://www.linkedin.com/in/MarkShust/)
+- YouTube: [@MarkShust](https://www.youtube.com/c/MarkShust)
