@@ -8,14 +8,13 @@ My most popular repo is [docker-magento](https://github.com/markshust/docker-mag
 
 ## Fun facts
 
-- I'm married to my wonderful wife [Juliann](https://www.instagram.com/adventures_with_mommy/) 🌹 and we have twin girls 👯‍♂️
+- I'm married to my wonderful wife Juliann and we have twin girls 👯‍♂️
 - I have a [red Nissan 240sx convertible](https://www.instagram.com/markshust240sx/) that I love to modify 🏎
 - Once, I got lucky & bowled a 300 game 🎳
 - In my spare time, I like puzzles, mind games, ...and programming some more 👨‍💻
 - Chipotle burritos are my fav 🌯💖 If you like my OSS work, please consider [buying me a burrito](https://github.com/sponsors/markshust/)
 
 ## Social
-- Email: [mark@m.academy](mailto:mark@m.academy)
-- Twitter: [@MarkShust](https://twitter.com/MarkShust)
-- LinkedIn: [in/MarkShust](https://www.linkedin.com/in/MarkShust/)
 - YouTube: [@MarkShust](https://www.youtube.com/c/MarkShust)
+- LinkedIn: [in/MarkShust](https://www.linkedin.com/in/MarkShust/)
+- X: [@MarkShust](https://twitter.com/MarkShust)
