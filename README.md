@@ -1,10 +1,10 @@
 # Hi there 👋
 
-My name is Mark, and I've been a web developer for over 20 years. I create courses & screencasts for [M.academy](https://M.academy), which is the simplest way to learn Magento.
+My name is Mark, and I've been a web developer for over 25 years. I create courses & screencasts for [M.academy](https://M.academy), which is the simplest way to learn Magento.
 
 ## 🐳 + 🧡 + = 😍
 
-My most popular repo is [docker-magento](https://github.com/markshust/docker-magento), a development environment I created for [Magento](https://github.com/magento) that is based on [Docker](https://github.com/docker). I've been working on it for over 8 years now, and it's by far my biggest accomplishment in open source.
+My most popular repo is [docker-magento](https://github.com/markshust/docker-magento), a development environment I created for [Magento](https://github.com/magento) that is based on [Docker](https://github.com/docker). I've been working on it for over 10 years now, and it's by far my biggest accomplishment in open source.
 
 ## Fun facts
 
@@ -18,3 +18,13 @@ My most popular repo is [docker-magento](https://github.com/markshust/docker-mag
 - YouTube: [@MarkShust](https://www.youtube.com/c/MarkShust)
 - LinkedIn: [in/MarkShust](https://www.linkedin.com/in/MarkShust/)
 - X: [@MarkShust](https://twitter.com/MarkShust)
+
+## Credits
+
+### M.academy
+
+Be sure to check out my company <a href="https://m.academy" target="_blank">M.academy</a>, the simplest way to learn Magento.
+
+If you'd like to support my open source work, please consider enrolling in one of my courses or the University -- it would be much appreciated 🤗
+
+<a href="https://m.academy" target="_blank"><img src="https://m.academy/images/logo.png" alt="M.academy"></a>
