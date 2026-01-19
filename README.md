@@ -26,4 +26,4 @@ Be sure to check out my company <a href="https://m.academy" target="_blank">M.ac
 
 If you'd like to support my open source work, please consider enrolling in one of my courses or the University -- it would be much appreciated 🤗
 
-<a href="https://macade.my/gRSjjr target="_blank"><img src="https://m.academy/images/logo.png" alt="M.academy"></a>
+<a href="https://macade.my/gRSjjr" target="_blank"><img src="https://m.academy/images/logo.png" alt="M.academy"></a>
