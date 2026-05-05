@@ -2,33 +2,37 @@
 
 I'm Mark.
 
-I've been building software for over 25 years.
+I've been shipping production code for over 25 years, mostly in commerce.
 
-These days, I'm focused on building tools, teaching developers, and sharing what I'm learning as software development changes in the age of AI.
+These days I work as an independent forward deployed engineer and solutions architect, helping mid-market companies identify and solve operational problems by embedding AI directly into their business workflows. Cleveland-based, on-site delivery within Northeast Ohio. Senior practitioner work, not slide decks.
 
-I care about clean architecture, simplifying complex problems, and helping developers understand not just the *how*, but the *why* behind the work.
+Outside of client work, I build open-source tools and write about the craft.
 
-## What I'm working on
+## What I'm building
 
-- Building **[Marko](https://github.com/marko-php/marko)**, a modular PHP framework shaped by my years of experience with Magento, Laravel, and real-world application architecture
-- Maintaining **[docker-magento](https://github.com/markshust/docker-magento)**, the most popular Magento development environment that I've been refining for more than a decade
-- Creating new lessons and courses through **[M.academy](https://m.academy)**, teaching as I learn
-- Exploring how AI is changing the role of the developer through real-world use, not theory, with **[The Merge Conflict](https://themergeconflict.com)**
+- **[Marko](https://github.com/marko-php/marko)** -- an open-source PHP framework, shaped by years in Magento, Laravel, and real-world application architecture. Heading toward 1.0.
+- **[HCF (Halt and Catch Fire)](https://github.com/markshust/hcf)** -- the Claude Code plugin that defines my development workflow architecture. How I ship production apps daily with AI, without the slop.
+- **[docker-magento](https://github.com/markshust/docker-magento)** -- the most popular Magento development environment, refined for over a decade.
+- **[M.academy](https://m.academy)** -- where I teach Magento. 600+ lessons, ongoing.
 
 ## What you'll find here
 
-A mix of open source projects, developer tools, experiments, and ideas pulled from the work I'm doing every day.
+A mix of open-source projects, developer tools, and experiments pulled from the work I'm doing every day.
 
 Some of it is practical.
 Some of it is architectural.
-Some of it is just me thinking out loud about where this industry is headed.
+Some of it is half-finished. That's the point.
 
 ## A few things I believe
 
-- Great software comes from a place of clarity, simplicity and elegance -- not complexity
+- Great software comes from clarity, simplicity, and elegance -- not complexity
 - Good teaching helps people understand, not just copy and paste
-- AI changes the mechanics of building, but judgment still matters more than ever
-- Sharing work before it's quite ready is often more useful than waiting until it looks perfect
+- AI changes the mechanics of building, but judgment matters more than ever
+- Sharing work before it's polished is more useful than waiting until it looks perfect
+
+## Working with me
+
+Open to a small number of architecture and build engagements per year, with mid-market companies embedding AI into their business workflows. Defined discovery, architecture, and build phases. If that's what you need, [reach out on LinkedIn](https://www.linkedin.com/in/MarkShust/).
 
 ## Elsewhere
 
